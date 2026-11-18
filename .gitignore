@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# dados e saídas geradas pelo notebook
+S-FFSD.csv
+S-FFSD.zip
+sffsd_raw/
+sffsd_data/
+PC_GNN_sffsd/
+*.npz
